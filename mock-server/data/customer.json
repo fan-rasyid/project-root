@@ -1,0 +1,222 @@
+[
+  {
+    "customer_id": "C001",
+    "first_name": "John",
+    "last_name": "Doe",
+    "email": "john@example.com",
+    "phone": "08123456789",
+    "address": "Jakarta",
+    "date_of_birth": "1990-01-01",
+    "account_balance": 1000.5,
+    "created_at": "2026-04-07T10:00:00"
+  },
+  {
+    "customer_id": "C002",
+    "first_name": "Neza",
+    "last_name": "Hilman",
+    "email": "neza@example.com",
+    "phone": "08123456789",
+    "address": "Jakarta",
+    "date_of_birth": "1990-01-01",
+    "account_balance": 1200.7,
+    "created_at": "2026-04-07T10:00:00"
+  },
+  {
+    "customer_id": "C003",
+    "first_name": "Alexander",
+    "last_name": "Bell",
+    "email": "alexander@example.com",
+    "phone": "08123456789",
+    "address": "Jakarta",
+    "date_of_birth": "1990-01-01",
+    "account_balance": 1320.3,
+    "created_at": "2026-04-07T10:00:00"
+  },
+  {
+    "customer_id": "C004",
+    "first_name": "Lorenzo",
+    "last_name": "Smith",
+    "email": "lorenzo@example.com",
+    "phone": "08123456789",
+    "address": "Jakarta",
+    "date_of_birth": "1990-01-01",
+    "account_balance": 1023,
+    "created_at": "2026-04-07T10:00:00"
+  },
+  {
+    "customer_id": "C005",
+    "first_name": "Patrick",
+    "last_name": "Liam",
+    "email": "patrick@example.com",
+    "phone": "08123456789",
+    "address": "Jakarta",
+    "date_of_birth": "1990-01-01",
+    "account_balance": 2012.0,
+    "created_at": "2026-04-07T10:00:00"
+  },
+  {
+    "customer_id": "C006",
+    "first_name": "Harry",
+    "last_name": "Bill",
+    "email": "harry@example.com",
+    "phone": "08123456789",
+    "address": "Jakarta",
+    "date_of_birth": "1990-01-01",
+    "account_balance": 3212.1,
+    "created_at": "2026-04-07T10:00:00"
+  },
+  {
+    "customer_id": "C007",
+    "first_name": "Clinton",
+    "last_name": "Jackson",
+    "email": "clinton@example.com",
+    "phone": "08123456789",
+    "address": "Jakarta",
+    "date_of_birth": "1990-01-01",
+    "account_balance": 4213.5,
+    "created_at": "2026-04-07T10:00:00"
+  },
+  {
+    "customer_id": "C008",
+    "first_name": "Jackson",
+    "last_name": "Kole",
+    "email": "jackson@example.com",
+    "phone": "08123456789",
+    "address": "Jakarta",
+    "date_of_birth": "1990-01-01",
+    "account_balance": 1234.5,
+    "created_at": "2026-04-07T10:00:00"
+  },
+  {
+    "customer_id": "C009",
+    "first_name": "Ashley",
+    "last_name": "Smith",
+    "email": "ashley@example.com",
+    "phone": "08123456789",
+    "address": "Jakarta",
+    "date_of_birth": "1990-01-01",
+    "account_balance": 2122.5,
+    "created_at": "2026-04-07T10:00:00"
+  },
+  {
+    "customer_id": "C010",
+    "first_name": "Mark",
+    "last_name": "Lee",
+    "email": "mark@example.com",
+    "phone": "08123456789",
+    "address": "Jakarta",
+    "date_of_birth": "1990-01-01",
+    "account_balance": 5213.5,
+    "created_at": "2026-04-07T10:00:00"
+  },
+  {
+    "customer_id": "C011",
+    "first_name": "Callison",
+    "last_name": "Noel",
+    "email": "callison@example.com",
+    "phone": "08123456789",
+    "address": "Jakarta",
+    "date_of_birth": "1990-01-01",
+    "account_balance": 1235.5,
+    "created_at": "2026-04-07T10:00:00"
+  },
+  {
+    "customer_id": "C012",
+    "first_name": "Michael",
+    "last_name": "Watson",
+    "email": "michael@example.com",
+    "phone": "08123456789",
+    "address": "Jakarta",
+    "date_of_birth": "1990-01-01",
+    "account_balance": 2134.5,
+    "created_at": "2026-04-07T10:00:00"
+  },
+  {
+    "customer_id": "C013",
+    "first_name": "Sullivan",
+    "last_name": "Loream",
+    "email": "sullivan@example.com",
+    "phone": "08123456789",
+    "address": "Jakarta",
+    "date_of_birth": "1990-01-01",
+    "account_balance": 12213.5,
+    "created_at": "2026-04-07T10:00:00"
+  },
+  {
+    "customer_id": "C014",
+    "first_name": "Mike",
+    "last_name": "Bowie",
+    "email": "mike@example.com",
+    "phone": "08123456789",
+    "address": "Jakarta",
+    "date_of_birth": "1990-01-01",
+    "account_balance": 2132.5,
+    "created_at": "2026-04-07T10:00:00"
+  },
+  {
+    "customer_id": "C015",
+    "first_name": "Pamela",
+    "last_name": "Bowie",
+    "email": "pamela@example.com",
+    "phone": "08123456789",
+    "address": "Jakarta",
+    "date_of_birth": "1990-01-01",
+    "account_balance": 4213.5,
+    "created_at": "2026-04-07T10:00:00"
+  },
+  {
+    "customer_id": "C016",
+    "first_name": "William",
+    "last_name": "Patkinson",
+    "email": "william@example.com",
+    "phone": "08123456789",
+    "address": "Jakarta",
+    "date_of_birth": "1990-01-01",
+    "account_balance": 2135.5,
+    "created_at": "2026-04-07T10:00:00"
+  },
+  {
+    "customer_id": "C017",
+    "first_name": "Angela",
+    "last_name": "Mason",
+    "email": "angela@example.com",
+    "phone": "08123456789",
+    "address": "Jakarta",
+    "date_of_birth": "1990-01-01",
+    "account_balance": 2131.5,
+    "created_at": "2026-04-07T10:00:00"
+  },
+  {
+    "customer_id": "C018",
+    "first_name": "Bella",
+    "last_name": "Johnson",
+    "email": "bella@example.com",
+    "phone": "08123456789",
+    "address": "Jakarta",
+    "date_of_birth": "1990-01-01",
+    "account_balance": 2142.5,
+    "created_at": "2026-04-07T10:00:00"
+  },
+  {
+    "customer_id": "C019",
+    "first_name": "Liam",
+    "last_name": "Rachelia",
+    "email": "liam@example.com",
+    "phone": "08123456789",
+    "address": "Jakarta",
+    "date_of_birth": "1990-01-01",
+    "account_balance": 5521.5,
+    "created_at": "2026-04-07T10:00:00"
+  },
+  {
+    "customer_id": "C020",
+    "first_name": "Joey",
+    "last_name": "Rogers",
+    "email": "joey@example.com",
+    "phone": "08123456789",
+    "address": "Jakarta",
+    "date_of_birth": "1990-01-01",
+    "account_balance": 32154.5,
+    "created_at": "2026-04-07T10:00:00"
+  }
+]
